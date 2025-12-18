@@ -26,7 +26,7 @@ Current research interests include:
 Chen G, et al. Transcriptomic and physiological responses reveal a time-associated multi-organ injury pattern in European perch (*Perca fluviatilis*) under acute alkaline stress.  
 *Animals*, 2025, 15:3621.
 
-Chen G, et al. Estimation of heritabilities and quantitative trait loci for growth traits in bighead carp (*Hypophthalmichthys nobilis*). 
+Chen G, et al. Estimation of heritabilities and quantitative trait loci for growth traits in bighead carp (*Hypophthalmichthys nobilis*).  
 *Aquaculture*, 2023.
 
 Chen G, et al. Genome-wide association study reveals SNPs and candidate genes related to growth and body shape in bighead carp (*Hypophthalmichthys nobilis*).  
