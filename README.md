@@ -24,7 +24,7 @@ Current research interests include:
 ## Selected Publications
 
 Chen G, et al. Transcriptomic and physiological responses reveal a time-associated multi-organ injury pattern in European perch (*Perca fluviatilis*) under acute alkaline stress.  
-*Animals*, 2025, 15:3621.
+*Animals*, 2025.
 
 Chen G, et al. Estimation of heritabilities and quantitative trait loci for growth traits in bighead carp (*Hypophthalmichthys nobilis*).  
 *Aquaculture*, 2023.
