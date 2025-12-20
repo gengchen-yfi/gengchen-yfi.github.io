@@ -15,10 +15,10 @@ dissecting the genetic architecture of complex traits related to growth,
 body shape, sex determination, and environmental adaptation in freshwater fish.
 
 I have extensive experience in genomic studies of cyprinid species, particularly
-bighead carp (Hypophthalmichthys nobilis), where I applied whole-genome
+bighead carp (*Hypophthalmichthys nobilis*), where I applied whole-genome
 resequencing, GWAS/QTL mapping, and transcriptomic analyses to investigate
 breeding-relevant traits. Building on this established research framework,
-I am currently extending my work to European perch (Perca fluviatilis),
+I am currently extending my work to European perch (*Perca fluviatilis*),
 aiming to support genetic improvement and molecular breeding in emerging
 aquaculture species.
 
@@ -66,6 +66,8 @@ Functional genomics and host–pathogen interaction
 Chen G, et al. ITGB1b-deficient rare minnows delay grass carp reovirus entry and
 attenuate GCRV-triggered apoptosis.
 *International Journal of Molecular Sciences*, 2018.
+[[Journal PDF]](https://www.mdpi.com/1422-0067/19/10/3175) ·
+[[Google Scholar]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5714KZcAAAAJ&citation_for_view=5714KZcAAAAJ:u5HHmVD_uO8C)
 
 ---
 
