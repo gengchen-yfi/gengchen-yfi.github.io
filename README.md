@@ -1,11 +1,15 @@
 # Geng Chen
 
+<img src="photo.png" alt="Geng Chen" width="150" height="150" align="right" style="border-radius: 50%; object-fit: cover; margin-left: 24px; margin-bottom: 16px;">
+
 **Fish Genetics and Genomics**
 
 Yangtze River Fisheries Research Institute  
 Chinese Academy of Fishery Sciences, Wuhan, China
 
 [Email](mailto:chengeng@yfi.ac.cn) · [Google Scholar](https://scholar.google.com/citations?user=5714KZcAAAAJ) · [ORCID](https://orcid.org/0000-0003-3619-3951)
+
+<div style="clear: both;"></div>
 
 ## About
 
