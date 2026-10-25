@@ -1,6 +1,6 @@
 # Geng Chen
 
-<img src="photo.png" alt="Geng Chen" width="150" height="150" align="right" style="border-radius: 50%; object-fit: cover; margin-left: 24px; margin-bottom: 16px;">
+<img src="photo.png" alt="Geng Chen" style="float: right; width: 150px; height: 150px; padding: 0; border-radius: 50%; object-fit: cover; margin-left: 24px; margin-bottom: 16px;">
 
 **Fish Genetics and Genomics**
 
